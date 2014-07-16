@@ -1,5 +1,7 @@
 # ﻿Raspberry Pi Camera Board
 
+| | |
+| --- | --- |
 | Net price | 25 $ |
 | Size | 25 x 20 x 9 mm |
 | Weight | 3 g |
@@ -13,6 +15,8 @@ http://www.ovt.com/products/sensor.php?id=66
 
 ## Specification
 
+| | |
+| --- | --- |
 | Sensor resolution | 2592 x 1944 pixels |
 | Sensor image area | 3.76 x 2.74 mm |
 | Pixel size | 1.4 µm x 1.4 µm |
@@ -58,6 +62,8 @@ http://www.ovt.com/products/sensor.php?id=66
 
 ## Software Features
 
+| | |
+| --- | --- |
 | Picture formats | JPEG (accelerated) , JPEG + RAW , GIF , BMP , PNG , YUV420 , RGB888 |
 | Video formats | raw h.264 (accelerated) |
 | Effects | negative , solarise , posterize , whiteboard , blackboard , sketch , denoise , emboss , oilpaint , hatch , gpen , pastel , watercolour,  film , blur , saturation |
