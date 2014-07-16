@@ -1,6 +1,5 @@
 # ﻿Raspberry Pi Camera Board
 
-| --- | --- |
 | Net price | 25 $ |
 | Size | 25 x 20 x 9 mm |
 | Weight | 3 g |
@@ -12,8 +11,8 @@ Sensor: OmniVision OV5647  , Camera Module:  Sunny P5V01A (?)
 http://www.sunnyoptical.com/en_US/index.jsp?kind_num=015
 http://www.ovt.com/products/sensor.php?id=66
 
-##Specification
-| --- | --- |
+## Specification
+
 | Sensor resolution | 2592 x 1944 pixels |
 | Sensor image area | 3.76 x 2.74 mm |
 | Pixel size | 1.4 µm x 1.4 µm |
@@ -57,7 +56,7 @@ http://www.ovt.com/products/sensor.php?id=66
 | 32 bytes of embedded one-time programmable (OTP) memory | No |
 | Embedded 1.5V regulator for core power | Yes |
 
-##Software Features
+## Software Features
 
 | Picture formats | JPEG (accelerated) , JPEG + RAW , GIF , BMP , PNG , YUV420 , RGB888 |
 | Video formats | raw h.264 (accelerated) |
