@@ -67,10 +67,11 @@ http://www.ovt.com/products/sensor.php?id=66
 | Picture formats | JPEG (accelerated) , JPEG + RAW , GIF , BMP , PNG , YUV420 , RGB888 |
 | Video formats | raw h.264 (accelerated) |
 | Effects | negative , solarise , posterize , whiteboard , blackboard , sketch , denoise , emboss , oilpaint , hatch , gpen , pastel , watercolour,  film , blur , saturation |
-| Exposure modes |auto  , night , nightpreview , backlight ,
-spotlight , sports , snow , beach , verylong  , fixedfps , antishake , fireworks |
+| Exposure modes |auto  , night , nightpreview , backlight , spotlight , sports , snow , beach , verylong  , fixedfps , antishake , fireworks |
 | Metering modes | average, spot, backlit, matrix |
 | Automatic White Balance modes | off, auto , sun , cloud, shade, tungsten, fluorescent , incandescent , flash, horizon |
 | Triggers | Keypress , UNIX signal , timeout |
 | Extra modes | demo , timelapse , circular buffer , video with motion vectors , segmented video , live preview on 3D models |
 
+Thanks to RichShumaker , Gert van Loo,  JamesH , 6by9,  fastmapper and jbeale 
+on the Raspberry Pi Forums.
