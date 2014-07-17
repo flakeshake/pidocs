@@ -26,11 +26,11 @@ http://www.ovt.com/products/sensor.php?id=66
 | Densitivity | 680 mV/lux-sec |
 | Dark current | 16 mV/sec @ 60 C |
 | Well capacity | 4.3 Ke- |
-| Fixed Focus | 1 m to infinity (?) |
-| Focal length | 3.60 mm +/- 0.01 (source: fastmapper) |
-| Horizontal field of view | 53.50  +/- 0.13 degrees (source: fastmapper) |
-| Vertical field of view | 41.41 +/- 0.11 degress (source: fastmapper) |
-| Focal ratio | 2.9 (source: jbeale)|
+| Fixed Focus | 1 m to infinity|
+| Focal length | 3.60 mm +/- 0.01 |
+| Horizontal field of view | 53.50  +/- 0.13 degrees |
+| Vertical field of view | 41.41 +/- 0.11 degress |
+| Focal ratio | 2.9 |
 
 
 ## Hardware Features
@@ -73,5 +73,5 @@ http://www.ovt.com/products/sensor.php?id=66
 | Triggers | Keypress , UNIX signal , timeout |
 | Extra modes | demo , timelapse , circular buffer , video with motion vectors , segmented video , live preview on 3D models |
 
-Thanks to RichShumaker , Gert van Loo,  JamesH , 6by9,  fastmapper and jbeale 
+Thanks to  6by9,  jbeale , fastmapper  , Gert van Loo,  JamesH and RichShumaker
 on the Raspberry Pi Forums.
